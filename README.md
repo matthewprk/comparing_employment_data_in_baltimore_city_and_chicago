@@ -2,7 +2,7 @@
 
 ## Background Information
 For this project, I chose to analyze Baltimore City, MD and Chicago, IL (hometown). 
-The explored metric is employment rates (%) based on parent income (high, medium, and low). This is interesting to me, because I wanted to know if parent income can have an effect on employment rates. This ties into discussions about social mobility, as employment is important for moving up the socioeconomic ladder. The findings could also explain what causes differences in employment rates for either city. I also had a preconception that both cities suffer from economic disparities (wealth gap). This analysis would help quantify that assumption. 
+The explored metric is employment rates (%) based on parent income (high, medium, and low). This is interesting to me, because I wanted to know if parent income can have an effect on employment rates and whether preconceptions about economic disparities hold true. 
 
 ## Business Question
 How does parent income contribute to employment rates in Baltimore and Chicago and what are the key differences between the two cities?
@@ -28,7 +28,11 @@ This shows the difference in employment rates for Baltimore and Chicago, segment
 
 ## Conclusion
 ### Summary of Findings
-### Next Steps
-### Personal Importance
+Parent income affects employment rates. Generally, average employment rate increases as parent income increases for both cities, though we cannot assert causation. Baltimore's employment rate for people with low-income parents is lower than Chicago's, which could be driving lower overall employment. 
 
+### Next Steps
+The next steps are to look at why parent income influences employment rates. I'd like to explore data about the job market and education levels to see if those are impacted by parent income. Likewise, external factors like industries or types of jobs are important to consider for each city. 
+
+### Personal Importance
+This is important to me, because addressing employment rates, especially amongst those with low-income parents, is critical to social mobility and thriving cities. 
 

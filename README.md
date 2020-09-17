@@ -34,5 +34,5 @@ Parent income affects employment rates. Generally, average employment rate incre
 The next steps are to look at why parent income influences employment rates. I'd like to explore data about the job market and education levels to see if those are impacted by parent income. Likewise, external factors like industries or types of jobs are important to consider for each city. 
 
 ### Personal Importance
-This is important to me, because addressing employment rates, especially amongst those with low-income parents, is critical to social mobility and thriving cities. 
+This is important to me, because addressing employment rates, especially amongst those with low-income parents, is critical to social mobility and thriving cities.
 

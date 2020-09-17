@@ -1,3 +1,26 @@
 Step-by-step Guide for Data Analysis of Employment and Parent Income Data
 
-Baltimore 
+Baltimore City Employment Data .xls
+1) Download 4x Baltimore employment rate datasets (Everyone, low-income parents, middle-income parents, high-income parents) from Opportunity Atlas
+2) Add 3 columns (Employment Rate low-income parents, Employment Rate middle-income parents, Employment Rate high-income parents) to sheet with employment data for Everyone
+3) Use VLOOKUP to transfer employment rate data from the corresponding workbook into the consolidated sheet's respective column (i.e. in Employment Rate middle-income column, table array will be the workbook with the corresponding data)
+4) Repeat VLOOKUP until Employment Rate low-income parents, Employment Rate middle-income parents, Employment Rate high-income parents columns are all filled witht he correct data
+5) Distinguish Baltimore-city data by clicking the "text-to-column" function in the menu bar
+6) Select "delimited"
+5) Separate by commas
+6) Rename the three new columns "Neighborhood", "City", and "State"
+7) Apply filter to the "City" column and filter by "Baltimore"
+8) Copy and paste data into a new sheet for Baltimore-only employment data based on parent income. 
+
+Chicago Employment Data .xls
+1) Download 4x Baltimore employment rate datasets (Everyone, low-income parents, middle-income parents, high-income parents) from Opportunity Atlas
+2) Add 3 columns (Employment Rate low-income parents, Employment Rate middle-income parents, Employment Rate high-income parents) to sheet with employment data for Everyone
+3) Use VLOOKUP to transfer employment rate data from the corresponding workbook into the consolidated sheet's respective column (i.e. in Employment Rate middle-income column, table array will be the workbook with the corresponding data)
+4) Repeat VLOOKUP until Employment Rate low-income parents, Employment Rate middle-income parents, Employment Rate high-income parents columns are all filled witht he correct data
+5) Distinguish Chicago-city data by clicking the "text-to-column" function in the menu bar
+6) Select "delimited"
+5) Separate by commas
+6) Rename the three new columns "Neighborhood", "City", and "State"
+7) Apply filter to the "City" column and filter by "Chicago"
+8) Copy and paste data into a new sheet for Chicago-only employment data based on parent income. 
+

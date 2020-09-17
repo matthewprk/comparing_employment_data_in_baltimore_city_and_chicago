@@ -9,12 +9,21 @@ How does parent income contribute to employment rates in Baltimore and Chicago a
 
 ## Data Sources
 [Baltimore City Employment Data](https://github.com/matthewprk/comparing_employment_data_in_baltimore_city_and_chicago/blob/master/Chicago%20Employment%20Data.xls0) - This dataset shows employment data for Baltimore City based on parent income. 
-[Chicago Employment Data](
 
-[Opportunity Atlas](https://www.opportunityatlas.org/) 
+[Chicago Employment Data](https://github.com/matthewprk/comparing_employment_data_in_baltimore_city_and_chicago/blob/master/Baltimore%20City%20Employment%20Data.xls) - This dataset shows employment data for Chicago based on parent income.
 
+[Opportunity Atlas](https://www.opportunityatlas.org/) - This is the website from which tract datasets on employment rates and parent income were originally pulled from.
 
 ## Data Analysis and Metrics
+### Metric Explored: Employment Rates - This is the % of people employed divided by the labor force. 
+- 1 The average employment rate in Baltimore is 71.48%. 
+- 2 The average employment rate in Chicago is 74.41%. 
+- 3 In Baltimore, employment for people with high-income parents is 78.00%, middle-income parents is 74.51%, and low-income parents is 69.06%.
+- 4 In Chicago, employment for people with high-income parents is 76.98%, middle-income parents is 76.40%, and low-income parents is 71.74%.
+
+### Visualization
+[alt text](
+
 
 ## Conclusion
 ### Summary of Findings

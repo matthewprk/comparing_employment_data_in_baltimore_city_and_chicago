@@ -8,7 +8,11 @@ The explored metric is employment rates (%) based on parent income (high, medium
 How does parent income contribute to employment rates in Baltimore and Chicago and what are the key differences between the two cities?
 
 ## Data Sources
-Baltimore City Employment Data - 
+[Baltimore City Employment Data](https://github.com/matthewprk/comparing_employment_data_in_baltimore_city_and_chicago/blob/master/Chicago%20Employment%20Data.xls0) - This dataset shows employment data for Baltimore City based on parent income. 
+[Chicago Employment Data](
+
+[Opportunity Atlas](https://www.opportunityatlas.org/) 
+
 
 ## Data Analysis and Metrics
 

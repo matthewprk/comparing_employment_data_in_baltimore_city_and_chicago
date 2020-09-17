@@ -24,3 +24,14 @@ Chicago Employment Data .xls
 7) Apply filter to the "City" column and filter by "Chicago"
 8) Copy and paste data into a new sheet for Chicago-only employment data based on parent income. 
 
+Baltimore and Chicago Data Analysis - Employment Rates and Parent Income .xls
+1) Copy and paste the aforementioned spreadsheet data into two separate sheets
+2) Create a third sheet, and consolidate the two cities' data by pasting one sheet below the other
+3) Click on this consolidated sheet and insert and PivotTable
+4) In "Values" box, drag the column headers from the field menu for which 1. Employment Rates low-income parents, 2. Employment Rates middle-income parents, 3. Employment Rates high-income parents, and 4. Employment Rates everyone are denoted.
+5) Change each of these values to Averages by licking the "i" icon and summarizing by "Average"
+6) In the "Axis" box, drag "City" from the field menu
+7) Now that you have a PivotTable, click "Insert" in the menu bar and select PivotChart
+8) If this doesnt create a bar chart with 4 bars for each city, select the "Design" tab and click Change Chart Type
+8) Click the "Design" tab to add a title and axes to the chart
+9) Resize the chart by dragging the corners to clearly depict the results. 

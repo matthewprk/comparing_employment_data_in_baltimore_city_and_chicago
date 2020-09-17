@@ -21,9 +21,10 @@ How does parent income contribute to employment rates in Baltimore and Chicago a
 - 3 In Baltimore, employment for people with high-income parents is 78.00%, middle-income parents is 74.51%, and low-income parents is 69.06%.
 - 4 In Chicago, employment for people with high-income parents is 76.98%, middle-income parents is 76.40%, and low-income parents is 71.74%.
 
-### Visualization
-[alt text](
+### Employment Rates Segmented by Parent Income Visualiztion
+![alt text](https://github.com/matthewprk/comparing_employment_data_in_baltimore_city_and_chicago/blob/master/Employment%20Rates%20Segmented%20By%20Parent%20Income%20.png) 
 
+This shows the difference in employment rates for Baltimore and Chicago, segmented by parent income. Here, we see that Baltimore's employment rate for people with low-income parents is ~2% lower than Chicago's and could be driving a lower overall employment rate. 
 
 ## Conclusion
 ### Summary of Findings
